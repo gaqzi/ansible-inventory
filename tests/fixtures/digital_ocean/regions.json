@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "sfo1",
+    "name": "San Francisco 1",
+    "id": 3
+  },
+  {
+    "slug": "nyc2",
+    "name": "New York 2",
+    "id": 4
+  },
+  {
+    "slug": "ams2",
+    "name": "Amsterdam 2",
+    "id": 5
+  },
+  {
+    "slug": "sgp1",
+    "name": "Singapore 1",
+    "id": 6
+  }
+]

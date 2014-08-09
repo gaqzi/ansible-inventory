@@ -1,0 +1,92 @@
+[
+  {
+    "cost_per_month": "5.0",
+    "cost_per_hour": 0.00744,
+    "disk": 20,
+    "cpu": 1,
+    "memory": 512,
+    "slug": "512mb",
+    "name": "512MB",
+    "id": 66
+  },
+  {
+    "cost_per_month": "10.0",
+    "cost_per_hour": 0.01488,
+    "disk": 30,
+    "cpu": 1,
+    "memory": 1024,
+    "slug": "1gb",
+    "name": "1GB",
+    "id": 63
+  },
+  {
+    "cost_per_month": "20.0",
+    "cost_per_hour": 0.02976,
+    "disk": 40,
+    "cpu": 2,
+    "memory": 2048,
+    "slug": "2gb",
+    "name": "2GB",
+    "id": 62
+  },
+  {
+    "cost_per_month": "40.0",
+    "cost_per_hour": 0.05952,
+    "disk": 60,
+    "cpu": 2,
+    "memory": 4096,
+    "slug": "4gb",
+    "name": "4GB",
+    "id": 64
+  },
+  {
+    "cost_per_month": "80.0",
+    "cost_per_hour": 0.11905,
+    "disk": 80,
+    "cpu": 4,
+    "memory": 8192,
+    "slug": "8gb",
+    "name": "8GB",
+    "id": 65
+  },
+  {
+    "cost_per_month": "160.0",
+    "cost_per_hour": 0.2381,
+    "disk": 160,
+    "cpu": 8,
+    "memory": 16384,
+    "slug": "16gb",
+    "name": "16GB",
+    "id": 61
+  },
+  {
+    "cost_per_month": "320.0",
+    "cost_per_hour": 0.47619,
+    "disk": 320,
+    "cpu": 12,
+    "memory": 32768,
+    "slug": "32gb",
+    "name": "32GB",
+    "id": 60
+  },
+  {
+    "cost_per_month": "480.0",
+    "cost_per_hour": 0.71429,
+    "disk": 480,
+    "cpu": 16,
+    "memory": 49152,
+    "slug": "48gb",
+    "name": "48GB",
+    "id": 70
+  },
+  {
+    "cost_per_month": "640.0",
+    "cost_per_hour": 0.95238,
+    "disk": 640,
+    "cpu": 20,
+    "memory": 65536,
+    "slug": "64gb",
+    "name": "64GB",
+    "id": 69
+  }
+]

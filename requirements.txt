@@ -1,0 +1,4 @@
+dopy>=0.2.3
+pytest
+pytest-xdist
+mock

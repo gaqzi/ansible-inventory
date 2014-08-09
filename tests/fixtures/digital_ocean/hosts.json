@@ -1,0 +1,67 @@
+[
+  {
+    "name": "elastic-search.mediapop.co",
+    "id": 1397172,
+    "ip_address": "128.199.242.89",
+    "backups_active": false,
+    "image_id": 1505447,
+    "size_id": 66,
+    "private_ip_address": "10.130.242.4",
+    "region_id": 6,
+    "locked": false,
+    "created_at": "2014-04-02T07:37:55Z",
+    "status": "active"
+  },
+  {
+    "name": "openinghours.sg",
+    "id": 1397205,
+    "ip_address": "128.199.242.36",
+    "backups_active": false,
+    "image_id": 1505447,
+    "size_id": 66,
+    "private_ip_address": "10.130.242.5",
+    "region_id": 6,
+    "locked": false,
+    "created_at": "2014-04-02T07:46:19Z",
+    "status": "active"
+  },
+  {
+    "name": "piwik.net.mediapop.co",
+    "id": 1436697,
+    "ip_address": "128.199.231.227",
+    "backups_active": false,
+    "image_id": 1505447,
+    "size_id": 66,
+    "private_ip_address": null,
+    "region_id": 6,
+    "locked": false,
+    "created_at": "2014-04-09T06:39:48Z",
+    "status": "active"
+  },
+  {
+    "name": "picktherightcatch.com",
+    "id": 1444509,
+    "ip_address": "128.199.229.74",
+    "backups_active": false,
+    "image_id": 3101045,
+    "size_id": 66,
+    "private_ip_address": null,
+    "region_id": 6,
+    "locked": false,
+    "created_at": "2014-04-10T09:21:28Z",
+    "status": "active"
+  },
+  {
+    "name": "memcache.net.mediapop.co",
+    "id": 1473196,
+    "ip_address": "128.199.249.207",
+    "backups_active": false,
+    "image_id": 3101045,
+    "size_id": 66,
+    "private_ip_address": "10.130.239.224",
+    "region_id": 6,
+    "locked": false,
+    "created_at": "2014-04-15T14:17:48Z",
+    "status": "active"
+  }
+]

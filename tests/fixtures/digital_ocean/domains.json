@@ -1,0 +1,10 @@
+[
+  {
+    "zone_file_with_error": null,
+    "error": null,
+    "live_zone_file": "$TTL\t1800\n@\t\tIN\tSOA\tNS1.DIGITALOCEAN.COM.\thostmaster.EXAMPLE.COM. (\n\t\t\t1397121894 ; last update: 2014-04-10 09:24:54 UTC\n\t\t\t3600 ; refresh\n\t\t\t900 ; retry\n\t\t\t1209600 ; expire\n\t\t\t1800 ; ttl\n\t\t\t)\n             IN      NS      NS1.DIGITALOCEAN.COM.\n                     NS      NS2.DIGITALOCEAN.COM.\n                     NS      NS3.DIGITALOCEAN.COM.\n@\tIN A\t128.199.229.74\nstaging\tIN A\t128.199.229.74\nwww\tCNAME\t@\n",
+    "ttl": 1800,
+    "name": "EXAMPLE.COM",
+    "id": 246868
+  }
+]
